@@ -1,0 +1,3 @@
+vectorstore_index/
+data/*.csv
+data/*.sqlite
